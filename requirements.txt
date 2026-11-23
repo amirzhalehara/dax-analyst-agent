@@ -1,0 +1,4 @@
+anthropic>=0.40
+yfinance>=0.2.50
+streamlit>=1.40
+python-dotenv>=1.0
